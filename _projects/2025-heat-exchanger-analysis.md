@@ -5,8 +5,6 @@ description: Class Assignment
 technologies: [GitHub]
 image: /assets/images/thermo-portfolio-0.jpg
 ---
-**Heat Exchanger**
-
 Group Members: Monna Li and Stephanie Cheng
 
 **Photos and schematics of the device or system:**
