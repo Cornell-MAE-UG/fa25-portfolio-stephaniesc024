@@ -6,7 +6,7 @@ technologies: [GitHub]
 image:
 ---
 
-![Photo of old radio]({{ "/assets/images/thermo-portfolio-1.jpg" | relative_url }}){: .inline-image-l}
+![Photo of portfolio]({{ "/assets/images/thermo-portfolio-1.jpg" | relative_url }}){: .inline-image-l}
 ![Photo of old radio]({{ "/assets/images/thermo-portfolio-2.jpg" | relative_url }}){: .inline-image-l}
 ![Photo of old radio]({{ "/assets/images/thermo-portfolio-3.jpg" | relative_url }}){: .inline-image-l}
 ![Photo of old radio]({{ "/assets/images/thermo-portfolio-4.jpg" | relative_url }}){: .inline-image-l}
