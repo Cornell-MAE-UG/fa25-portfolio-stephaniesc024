@@ -5,17 +5,11 @@ description: Class Assignment
 technologies: [GitHub]
 image: /assets/images/thermo-portfolio-0.jpg
 ---
-Group Members: Monna Li and Stephanie Cheng
-
-
-
-
-
-
-
+Members: Monna Li and Stephanie Cheng
 
 **Photos and schematics of the device or system:**
-(we forgot to take photos so our photos are from a friend who went on a different day)
+(we forgot to take photos so we got our photos from a friend who went a different day)
+
 ![Photo]({{ "/assets/images/thermo-portfolio-1.jpg" | relative_url }}){: style="width: 600px"}
 
 **A qualitative description of the device or system:**
