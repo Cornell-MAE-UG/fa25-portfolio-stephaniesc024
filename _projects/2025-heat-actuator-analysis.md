@@ -9,7 +9,6 @@ image: /assets/images/thermo-portfolio-0.jpg
 Group Members: Monna Li and Stephanie Cheng
 
 **Photos and schematics of the device or system:**
-
 (we forgot to take photos so our photos are from a friend who went on a different day)
 ![Photo]({{ "/assets/images/thermo-portfolio-1.jpg" | relative_url }}){: style="width: 600px"}
 
@@ -30,6 +29,7 @@ The device we chose to look at was a heat exchanger. It has four ports, labeled 
 **Describe a change to device or system design or operating conditions and then how that change influences device performance:**
 
 ![Photo]({{ "/assets/images/thermo-portfolio-6.jpg" | relative_url }}){: style="width: 300px"}
+
 We started by running the system in parallel flow, then changed the set up to run it again in counter flow. In parallel flow, the two pumps and reservoirs are put on the same side of the heat exchanger so that water from the cold and hot reservoirs flow in the same direction. In counter flow, one of the reservoirs is put on the other side of the heat exchanger, pumping the water such that it flows in the opposite direction of the other reservoir. This change influences device performance because in parallel flow, both lines start with a large temperature difference and approach the same mean temperature in which there isn’t a lot of heat exchange. Meanwhile in counter flow, the gradient of hot to mean versus cold to mean occurs in opposite directions such that there will be a more consistent large temperature difference and thus more heat exchange occurring.
 
 **Where might you find a heat exchanger used in the real world?**
