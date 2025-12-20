@@ -23,7 +23,7 @@ The device we chose to look at was a heat exchanger. It has four ports, labeled 
 
 **Mass balance, energy balance, and entropy balance equations (as relevant) capturing the physics more central to the device or system operation:**
 
-![Photo]({{ "/assets/images/thermo-portfolio-4.jpg" | relative_url }}){: style="width: 300px"}
+![Photo]({{ "/assets/images/thermo-portfolio-4.jpg" | relative_url }}){: style="width: 450px"}
 ![Photo]({{ "/assets/images/thermo-portfolio-5.jpg" | relative_url }}){: style="width: 600px"}
 
 **Describe a change to device or system design or operating conditions and then how that change influences device performance:**
