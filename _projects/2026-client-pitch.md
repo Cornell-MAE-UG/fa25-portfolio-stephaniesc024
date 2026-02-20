@@ -1,6 +1,6 @@
 --- 
 layout: project
-title: Spotted Lanternfly Client Pitch
+title: MAE2250 SLF Client Pitch
 --- 
 
 <p align="center">
