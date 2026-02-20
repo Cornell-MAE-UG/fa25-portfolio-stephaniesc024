@@ -1,6 +1,6 @@
 --- 
 layout: project
-title: MAE2250 SLF Client Pitch
+title: SLF Client Pitch
 --- 
 
 <p align="center">
