@@ -1,6 +1,6 @@
 --- 
 layout: project
-title: Lantern Fly Eradication Unit
+title: MAE2250 Client Pitch
 --- 
 
 <p align="center">
