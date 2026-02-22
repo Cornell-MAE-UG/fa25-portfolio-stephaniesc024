@@ -6,7 +6,7 @@ image: /assets/images/SLF.png
 
 <p align="center">
   <b>Reducing Spotted Lanternfly Contamination During Mechanical Grape Harvest</b><br>
-  <b>Lantern Fly Eradication Unit</b>
+  Lantern Fly Eradication Unit
 </p>
 
 <p align="center">
