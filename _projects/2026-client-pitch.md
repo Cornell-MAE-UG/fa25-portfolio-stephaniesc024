@@ -1,6 +1,7 @@
 --- 
 layout: project
 title: SLF Client Pitch
+image: /assets/images/SLF.png
 --- 
 
 <p align="center">
