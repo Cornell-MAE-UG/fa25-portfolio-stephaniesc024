@@ -32,7 +32,7 @@ image: /assets/images/prototypepic1.jpg
 <hr>
 <p align="center"><b>Works Cited</b></p>
 <p>Bekelja, K., &amp; Russo, J. <em>Spotted Lanternfly Discussion</em>. Zoom meeting recording, MAE 2250, Spring 2026.</p>
-<p>Cornell University. "<a href="https://news.cornell.edu/stories/2025/01/spotted-SLFs-could-cost-nys-grape-industry-millions">Spotted SLFs Could Cost NYS Grape Industry Millions.</a>" <em>Cornell Chronicle</em>, January 2025.</p>
+<p>Cornell University. "<a href="https://news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions">Spotted SLFs Could Cost NYS Grape Industry Millions.</a>" <em>Cornell Chronicle</em>, January 2025.</p>
 <hr>
 
 <h2 id="functional-prototype">Functional Prototype</h2>
