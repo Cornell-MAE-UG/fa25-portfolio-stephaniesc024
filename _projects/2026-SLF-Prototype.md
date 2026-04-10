@@ -1,6 +1,7 @@
 --- 
 layout: project
 title: SLF Prototype
+image: /assets/images/prototypepic1.jpg
 --- 
 
 <p><b>Table of Contents</b></p>
