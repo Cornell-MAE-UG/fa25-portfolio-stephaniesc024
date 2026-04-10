@@ -3,7 +3,6 @@ layout: project
 title: SLF Prototype
 --- 
 
-
 <p><b>Table of Contents</b></p>
 <ul>
   <li><a href="#client-pitch">Client Pitch</a></li>
