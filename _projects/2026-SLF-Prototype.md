@@ -94,7 +94,7 @@ title: SLF Prototype
 
 
 <p align="center">
-  <img src="/fa25-portfolio-kyler-lin/assets/images/prototypesketch.jpg" alt="Prototype front view" width="600">
+  <img src="/fa25-portfolio-stephaniesc024/assets/images/prototypesketch.jpg" alt="Prototype front view" width="600">
 </p>
 <p><b>Assembly Instructions</b></p>
 
@@ -192,6 +192,6 @@ title: SLF Prototype
 <p><b>Exhibit Demo:</b> Upon spinning the handle, the nozzle rotates through a 90° arc driven by the spur gear system — directly demonstrating the range-of-motion and smoothness criteria in a single visible action.</p>
 
 <p align="center">
-  <img src="/fa25-portfolio-kyler-lin/assets/images/prototypepic1.jpg" alt="Prototype view 1" width="350">
-  <img src="/fa25-portfolio-kyler-lin/assets/images/prototypepic2.jpg" alt="Prototype view 2" width="350">
+  <img src="/fa25-portfolio-stephaniesc024/assets/images/prototypepic1.jpg" alt="Prototype view 1" width="350">
+  <img src="/fa25-portfolio-stephaniesc024/assets/images/prototypepic2.jpg" alt="Prototype view 2" width="350">
 </p>
